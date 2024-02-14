@@ -227,7 +227,8 @@ def display_example(site):
             """,
                 height=400,
             )
-
+        else:
+            st.write("No location information available")
     st.write("**Normalized Deposit Types:**")
 
     site_annotation = get_annotation(site["id"], site["label"])

@@ -1,0 +1,954 @@
+[
+  {
+    "id": "https://minmod.isi.edu/resource/site__spruce-road__mudd-and-jowitt-2022-nickel__ar-2018",
+    "label": "Spruce Road",
+    "country": "USA",
+    "location": "POINT (-91.7 47.83)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz4530692xm7acjdk1",
+    "label": "First Independent Technical Report on the Tamarack North Project",
+    "country": "United States",
+    "location": "POINT(-93.1 46.683)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b0",
+          "normed_uri": "https://minmod.isi.edu/resource/Q482",
+          "name": "magmatic nickel-copper-PGE sulphide mineralization",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__crescent-creek__mudd-and-jowitt-2022-nickel__tech-rep-2009-06",
+    "label": "Crescent Creek",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__stratabound-stratiform-reef-type",
+          "normed_uri": null,
+          "name": "Stratabound Stratiform Reef-type",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__wetlegs__mudd-and-jowitt-2022-nickel__miller-et-al-2002-miller-2015",
+    "label": "Wetlegs",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__stillwater-east-boulder__mudd-and-jowitt-2022-nickel__resv-resc-2018",
+    "label": "Stillwater-East Boulder",
+    "country": "USA",
+    "location": "POINT (-109.9 45.39)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__layered-intrusive",
+          "normed_uri": null,
+          "name": "Layered Intrusive",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__stratabound-stratiform-reef-type",
+          "normed_uri": null,
+          "name": "Stratabound Stratiform Reef-type",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__benbow__mudd-and-jowitt-2022-nickel__tech-rep-2009-06",
+    "label": "Benbow",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__stratabound-stratiform-reef-type",
+          "normed_uri": null,
+          "name": "Stratabound Stratiform Reef-type",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__babbit-minnamax__mudd-and-jowitt-2022-nickel__miller-et-al-2002-miller-2015",
+    "label": "Babbit-Minnamax",
+    "country": "USA",
+    "location": "POINT (-86.71 51.76)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__eagle-eagle-east-usa__mudd-and-jowitt-2022-nickel__resv-resc-2018",
+    "label": "Eagle-Eagle East (USA)",
+    "country": "USA",
+    "location": "POINT (-87.88151 46.74852)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__birch-lake__mudd-and-jowitt-2022-nickel__ar-2018",
+    "label": "Birch Lake",
+    "country": "USA",
+    "location": "POINT (-91.8 47.75)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz4530692hcuf4gst1",
+    "label": "Preliminary Economic Assessment (PEA) of the Tamarack North Project – Tamarack Minnesota",
+    "country": "United States",
+    "location": "POINT(-93.10603 46.697)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b1",
+          "normed_uri": "https://minmod.isi.edu/resource/Q482",
+          "name": "magmatic nickel-copper-PGE sulphide mineralization",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__nye-basin__mudd-and-jowitt-2022-nickel__tech-rep-2009-06-nev",
+    "label": "Nye Basin",
+    "country": "USA",
+    "location": "POINT (-109.8 45.37)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__layered-intrusive",
+          "normed_uri": null,
+          "name": "Layered Intrusive",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__stratabound-stratiform-reef-type",
+          "normed_uri": null,
+          "name": "Stratabound Stratiform Reef-type",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__mouat__mudd-and-jowitt-2022-nickel__tech-rep-2009-06-nev",
+    "label": "Mouat",
+    "country": "USA",
+    "location": "POINT (-109.9 45.38)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__layered-intrusive",
+          "normed_uri": null,
+          "name": "Layered Intrusive",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__stratabound-stratiform-reef-type",
+          "normed_uri": null,
+          "name": "Stratabound Stratiform Reef-type",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__northmet-dunka-road__mudd-and-jowitt-2022-nickel__aif-2018",
+    "label": "NorthMet (Dunka Road)",
+    "country": "USA",
+    "location": "POINT (-92 47.6)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__gasquet-mountain__mudd-and-jowitt-2022-nickel__pers-comm-golightly",
+    "label": "Gasquet Mountain",
+    "country": "USA",
+    "location": "POINT (-124.01417 41.84361)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__laterite",
+          "normed_uri": null,
+          "name": "Laterite",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-Oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__mesaba-babbit__mudd-and-jowitt-2022-nickel__mayhew-et-al-2009-teck-2010",
+    "label": "Mesaba (Babbit)",
+    "country": "USA",
+    "location": "POINT (-91.9 47.63)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__maturi-incl-nokomis__mudd-and-jowitt-2022-nickel__ar-2018",
+    "label": "Maturi (incl. Nokomis)",
+    "country": "USA",
+    "location": "POINT (-91.8 47.8)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__tamarack-north__mudd-and-jowitt-2022-nickel__aif-2018",
+    "label": "Tamarack North",
+    "country": "USA",
+    "location": "POINT (-93.11959 46.67296)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__mine-lamotte-fredericktown__mudd-and-jowitt-2022-nickel__long-1992-singer-et-al-2009",
+    "label": "Mine LaMotte-Fredericktown",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__sediment-hosted-pb-zn",
+          "normed_uri": null,
+          "name": "Sediment-hosted Pb-Zn",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrothermal-ni",
+          "normed_uri": null,
+          "name": "Hydrothermal Ni",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__mvt",
+          "normed_uri": null,
+          "name": "MVT",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz4530692mth2c7hu1",
+    "label": "NI 43-101 Technical Report on the Maturi Birch Lake and Spruce Road Copper-Nickel-PGE Projects Ely Minnesota USA",
+    "country": "USA",
+    "location": "MULTIPOINT(-91.70833 47.78333,-91.79167 47.69694,-91.66667 47.83583)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b2",
+          "normed_uri": "https://minmod.isi.edu/resource/Q478",
+          "name": "magmatic nickel- copper-platinum group element (PGE)",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__higdon__mudd-and-jowitt-2022-nickel__singer-et-al-2009",
+    "label": "Higdon",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__sediment-hosted-pb-zn",
+          "normed_uri": null,
+          "name": "Sediment-hosted Pb-Zn",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrothermal-ni",
+          "normed_uri": null,
+          "name": "Hydrothermal Ni",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__mvt",
+          "normed_uri": null,
+          "name": "MVT",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz45306925b32tx471",
+    "label": "NI 43-101 Technical Report on the Maturi Birch Lake and Spruce Road Copper-Nickel-PGE Projects Ely Minnesota USA",
+    "country": "USA",
+    "location": "MULTIPOINT(-91.708333 47.696944,-91.791667 47.696944,-91.666667 47.836111)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b3",
+          "normed_uri": "https://minmod.isi.edu/resource/Q478",
+          "name": "magmatic nickel- copper-platinum group element (PGE)",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__maturi-southwest__mudd-and-jowitt-2022-nickel__ar-2018",
+    "label": "Maturi Southwest",
+    "country": "USA",
+    "location": "POINT (-91.8 47.8)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__red-flat-mountain__mudd-and-jowitt-2022-nickel__pers-comm-golightly",
+    "label": "Red Flat Mountain",
+    "country": "USA",
+    "location": "POINT (-123.4 42.96)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__laterite",
+          "normed_uri": null,
+          "name": "Laterite",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-Oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__snipe-bay__mudd-and-jowitt-2022-nickel__szumigala-et-al-2011",
+    "label": "Snipe Bay",
+    "country": "USA",
+    "location": "POINT (-134.95753 56.42213)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__associated-with-wrangellia-nikolai-lip",
+          "normed_uri": null,
+          "name": "Associated with Wrangellia/Nikolai LIP?",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz4530692cgwu8xbq1",
+    "label": "Technical Report on the Mineral Resource Estimate for the Maturi Property Minnesota U.S.A.",
+    "country": "United States of America",
+    "location": "POINT(-91.759305555556 47.799861111111)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b4",
+          "normed_uri": "https://minmod.isi.edu/resource/Q478",
+          "name": "magmatic nickel- copper-platinum group element (PGE)",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__serpentine__mudd-and-jowitt-2022-nickel__miller-et-al-2002-miller-2015",
+    "label": "Serpentine",
+    "country": "USA",
+    "location": "POINT (-81.26026 47.94613)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__bohemia-basin-basin-takanis-flapjack__mudd-and-jowitt-2022-nickel__szumigala-et-al-2011",
+    "label": "Bohemia Basin (Basin-Takanis-Flapjack)",
+    "country": "USA",
+    "location": "POINT (-136.43427 57.98471)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__wrangellia-lip-related",
+          "normed_uri": null,
+          "name": "Wrangellia LIP-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__local-boy__mudd-and-jowitt-2022-nickel__teck-2010",
+    "label": "Local Boy",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__dunka-pit__mudd-and-jowitt-2022-nickel__miller-et-al-2002-miller-2015",
+    "label": "Dunka Pit",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__duluth-complex-keweenawan-lip",
+          "normed_uri": null,
+          "name": "Duluth Complex - Keweenawan LIP",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__mirror-harbor__mudd-and-jowitt-2022-nickel__szumigala-et-al-2011",
+    "label": "Mirror Harbor",
+    "country": "USA",
+    "location": "POINT (-136.30894 57.78501)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__associated-with-wrangellia-nikolai-lip",
+          "normed_uri": null,
+          "name": "Associated with Wrangellia/Nikolai LIP?",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__gap__mudd-and-jowitt-2022-nickel__long-1992",
+    "label": "Gap",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz4530692xi5azb8u1",
+    "label": "Technical Report on the Preliminary Assessment of the Birch Lake and Maturi Deposits Minnesota U.S.A.",
+    "country": "USA",
+    "location": "POINT(-91.8 47.733333)",
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b5",
+          "normed_uri": "https://minmod.isi.edu/resource/Q478",
+          "name": "magmatic nickel- copper-platinum group element (PGE)",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__riddle-nickel-mountain__mudd-and-jowitt-2022-nickel__berger-et-al-2011",
+    "label": "Riddle (Nickel Mountain)",
+    "country": "USA",
+    "location": "POINT (-123.437 42.966)",
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__laterite",
+          "normed_uri": null,
+          "name": "Laterite",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__hydrous-mg-silicate-oxide",
+          "normed_uri": null,
+          "name": "Hydrous Mg silicate-Oxide",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/httpsw3idorgusgsz45306929g3s5x951",
+    "label": "Updated Preliminary Economic Assessment on the Tamarack North Project",
+    "country": "United States",
+    "location": null,
+    "deposit_types": {
+      "SME": [
+        {
+          "id": "b6",
+          "normed_uri": "https://minmod.isi.edu/resource/Q482",
+          "name": "magmatic nickel-copper-PGE sulphide mineralization",
+          "confidence": 1.0,
+          "source": "SME"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://minmod.isi.edu/resource/site__funter-bay__mudd-and-jowitt-2022-nickel__szumigala-et-al-2011",
+    "label": "Funter Bay",
+    "country": "USA",
+    "location": null,
+    "deposit_types": {
+      "sand": [
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__magmatic-sulphide",
+          "normed_uri": null,
+          "name": "Magmatic Sulphide",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__associated-with-wrangellia-nikolai-lip",
+          "normed_uri": null,
+          "name": "Associated with Wrangellia/Nikolai LIP?",
+          "confidence": 0.5,
+          "source": "sand"
+        },
+        {
+          "id": "https://minmod.isi.edu/resource/dety__mudd-and-jowitt-2022-nickel__small-m-um-intrusion-related",
+          "normed_uri": null,
+          "name": "Small M-UM Intrusion-related",
+          "confidence": 0.5,
+          "source": "sand"
+        }
+      ]
+    }
+  }
+]

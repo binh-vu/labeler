@@ -115,6 +115,7 @@ def save_deposit_type(
     ann = get_annotation(mineral_site_id, mineral_site_name)
     if ann is None:
         ann = {
+            "id": mineral_site_id,
             "deposit_types": [deposit_type],
         }
     else:

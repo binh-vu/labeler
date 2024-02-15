@@ -1,7 +1,7 @@
-id,name
-https://minmod.isi.edu/resource/Q478,U-M layered intrusion nickel- copper-PGE
-https://minmod.isi.edu/resource/Q481,U-M intrusion nickel-copper- PGE
-https://minmod.isi.edu/resource/Q482,U-M conduit nickel-copper- PGE
-https://minmod.isi.edu/resource/Q486,Arc U-M intru- sion nickel- copper-PGE
-https://minmod.isi.edu/resource/Q488,Anorthosite conduit nickel- copper-PGE
-https://minmod.isi.edu/resource/Q489,Impact U-M intrusion nickel- copper-PGE
+id,environment,group,name
+https://minmod.isi.edu/resource/Q478,Magmatic,Ultramafic and (or) mafic-layered intrusion,U-M layered intrusion nickel- copper-PGE
+https://minmod.isi.edu/resource/Q481,Magmatic,Ultramafic and (or) mafic intrusion,U-M intrusion nickel-copper- PGE
+https://minmod.isi.edu/resource/Q482,Magmatic,Ultramafic and (or) mafic conduit,U-M conduit nickel-copper- PGE
+https://minmod.isi.edu/resource/Q486,Magmatic,Ultramafic and (or) mafic intrusion,Arc U-M intru- sion nickel- copper-PGE
+https://minmod.isi.edu/resource/Q488,Magmatic,Anorthosite conduit,Anorthosite conduit nickel- copper-PGE
+https://minmod.isi.edu/resource/Q489,Magmatic,Ultramafic and (or) mafic intrusion,Impact U-M intrusion nickel- copper-PGE

@@ -95,7 +95,6 @@ WHERE {
     return list(out.values())
 
 
-
 def get_deposit_types():
     deposit_types = [
         f"https://minmod.isi.edu/resource/{x}"
@@ -105,9 +104,9 @@ def get_deposit_types():
         """
         SELECT ?id ?environment ?group ?name
                             WHERE {
-                            ?id rdfs:label ?name .
-                                # :environment ?environment ;
-                                # :deposit_group ?group .
+                            ?id rdfs:label ?name ;
+                                :environment ?environment ;
+                                :deposit_group ?group .
                             
                             VALUES ?id { %s }
                             }

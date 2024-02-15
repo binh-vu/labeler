@@ -46,7 +46,7 @@ def run_sparql_query(query, endpoint="https://minmod.isi.edu/sparql", values=Fal
                 )
             return df
     except:
-        return None
+        raise
 
 
 def run_minmod_query(query, values=False):

@@ -13,18 +13,23 @@ from labeler.misc import percentage, run_minmod_query
 
 # %%
 
-run_minmod_query("""
-SELECT ?id ?label
+run_minmod_query(
+    """
+SELECT ?id ?label ?environment ?group
 WHERE {
-:Q478 a :DepositType ;
-    rdfs:label ?label .
+<https://minmod.isi.edu/resource/Q478> a :DepositType ;
+    rdfs:label ?label ;
+                 :environment ?environment ;
+                :deposit_group ?group .
 }
-                 """)
+                 """
+)
 
 # %%
 
 
-run_minmod_query("""
+run_minmod_query(
+    """
 SELECT ?id ?environment ?group ?name
 WHERE {
     ?id 
@@ -34,4 +39,21 @@ WHERE {
 
 VALUES ?id { :Q478 }
                             }
-                 """)
+                 """
+)
+# %%
+
+
+run_minmod_query(
+    """
+SELECT ?id ?environment ?group ?name
+WHERE {
+    ?id rdfs:label ?name ;
+    :environment ?environment ;
+                                :deposit_group ?group .
+                            
+                            VALUES ?id { :Q478 }
+                            }
+                 """
+)
+# %%
